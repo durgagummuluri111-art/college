@@ -1,0 +1,71 @@
+
+ .card2{
+    display:grid;
+    border:2px solid black;
+    width:200px;
+    border-radius: 5px;
+    text-align: center;
+    padding:10px;
+}
+.card3{
+    display:grid;
+    border:2px solid black;
+    width:200px;
+    border-radius: 5px;
+    text-align: center;
+    padding:10px;
+}
+.card4{
+    display:grid;
+    border:2px solid black;
+    width:200px;
+    border-radius: 5px;
+    text-align: center;
+    padding:10px;
+} 
+.card1{
+display:grid;
+border:2px solid black;
+width:200px;
+border-radius:5px;
+text-align: center;
+padding:10px;
+}
+.durga{
+    display: grid;
+    grid-template-columns:repeat(4,1);
+    display:flex;
+    gap:90px;
+    justify-content: space-around;
+}
+#About{
+    text-align: center;
+}
+#fees{ 
+    text-align: center;
+}
+#facilities{ 
+    text-align: center;
+}
+#placements{
+    text-align: center;
+}
+#course{
+    color:blue;
+text-align: center;
+}
+#facility{
+    color:blue;
+text-align: center;
+}
+#fee{
+    color:blue;
+text-align: center;
+}
+#jobs{
+    color:blue;
+text-align: center;
+}
+#Home{
+    text-align: center;
+}
